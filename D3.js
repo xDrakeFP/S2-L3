@@ -223,5 +223,6 @@ console.log(charactersNames);
 */
 let random = Math.ceil(Math.random() * 10);
 random = random - 1;
-console.log(random);
 console.log("personaggio casuale :", starWarsCharacters[random]);
+
+console.log(random);
